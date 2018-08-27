@@ -29,7 +29,7 @@ font-family: 'geomanist';
            url('geomanist-book-webfont.ttf') format('truetype'),
            url('geomanist-book-webfont.svg') format('svg');
 font-weight: 500;
-font-style: book;
+font-style: bold;
 }
 
 @font-face {
@@ -65,7 +65,7 @@ font-family: 'geomanist';
            url('geomanist-bold-webfont.ttf') format('truetype'),
            url('geomanist-bold-webfont.svg') format('svg');
 font-weight: 700;
-font-style: bold;
+font-style: heavy;
 }
 
 
