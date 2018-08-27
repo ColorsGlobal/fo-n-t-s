@@ -20,5 +20,18 @@ font-family: 'geomanist';
 font-weight: 400;
 font-style: regular;
 }
+@font-face {
+font-family: 'geomanist';
+      src: url('geomanist-book-webfont.eot');
+      src: url('geomanist-book-webfont.eot?#iefix') format('embedded-opentype'), 
+           url('geomanist-book-webfont.woff2') format('woff2'),
+           url('geomanist-book-webfont.woff') format('woff'),
+           url('geomanist-book-webfont.ttf') format('truetype'),
+           url('geomanist-book-webfont.svg') format('svg');
+font-weight: 500;
+font-style: bold;
+}
+
+
 
 
